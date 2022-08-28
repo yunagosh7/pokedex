@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body{
+    text-align: center;
+}
+
 .pokemon{
     width: 160px;
     padding: 5px 9px;
