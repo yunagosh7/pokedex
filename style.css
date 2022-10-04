@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body{
+.main{
     text-align: center;
 }
 
@@ -21,6 +21,7 @@ body{
     color: #222;
     font-weight:bold ;
 }
+
 
 img{
     background-color: #ddd;
